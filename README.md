@@ -3,12 +3,13 @@ A Streamlit app that one can use to explore **key indicators of Moldova's develo
 
 ## Goal
 This project aims to help people learn about Moldova's close history and how it has developed over time.
-I'm told many times **"You're the first Moldovan one has met"** or often encounter questions like **"What language do you speak"** or **"Why is Moldova poor?"**. 
+I'm told many times **"You're the first Moldovan I've met!"** or often encounter questions like **"What language do you speak?"** or **"Why is Moldova poor?"**. 
 
 With this app, users can explore and discover answers on their own.
 
 Moldova is currently in the process of seeking membership in the European Union, a development that needs to be paid attention to.
 
+![](pics/alina-grubnyak-tnLFmR6mM_4-unsplash.jpg)
 ### Roadmap
 This project will go through different phases, and the roadmap might change through time.
 
