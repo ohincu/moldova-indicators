@@ -10,6 +10,8 @@ With this app, users can explore and discover answers on their own.
 Moldova is currently in the process of seeking membership in the European Union, a development that needs to be paid attention to.
 
 ![](pics/alina-grubnyak-tnLFmR6mM_4-unsplash.jpg)
+*Photo by [Alina Grubnyak](https://unsplash.com/@alinnnaaaa) on Unsplash*
+
 ### Roadmap
 This project will go through different phases, and the roadmap might change through time.
 
