@@ -3,7 +3,11 @@
 #####################################
 import pandas as pd
 import streamlit as st
+import plotly
 import plotly.express as px
+print(f"Streamlit version: {st.__version__}")
+print(f"Pandas version: {pd.__version__}")
+print(f"Plotly version: {plotly.__version__}")
 
 #####################################
 # Configure page
@@ -22,7 +26,7 @@ st.image('pics/sasha-pleshco-HBtWDEzIe6M-unsplash.jpg')
 #####################################
 @st.cache_data
 def read_data():
-    df = pd.read_csv("API_MDA_DS2_en_csv_v2_6302701.csv")
+    df = pd.read_csv("data/API_MDA_DS2_en_csv_v2_6302701.csv")
     df.columns = df.columns.str.replace(' ', '_').str.lower()
     df = df[df['kpi'] == True] # only selected KPIs by me
     df.drop(columns = ['country_name', 'country_code', 'kpi'], inplace = True)
