@@ -1,5 +1,6 @@
-# moldova-indicators
-A Streamlit app that one can use to explore **key indicators of Moldova's development**.
+# Streamlit App: Moldova's Progress
+A Streamlit app that one can use to explore **key indicators of Moldova's development**.  
+Access the first version of the app [here](https://moldova-indicators.streamlit.app/).
 
 ## Goal
 This project aims to help people learn about Moldova's close history and how it has developed over time.
@@ -16,14 +17,9 @@ Moldova is currently in the process of seeking membership in the European Union,
 This project will go through different phases, and the roadmap might change through time.
 
 **1. World Bank Perspective**
-1. Define key indicators from the World Bank (*IN PROGRESS*)
-2. Add plots on key indicators from the World Bank (*IN PROGRESS*)
-3. Add basic information on Moldova (*NEXT*)
+1. Add parent indicator level as a button. (*IN PROGRESS*)
+3. Add basic information on Moldova. (*NEXT*)
 
 **2. Moldovan Perspective**
-   1. Define other key indicators from Moldovan sources (*BACKLOG*)
-   2. Add plots on key indicators from Moldovan sources (*BACKLOG*)
-
-**3. Data Sonification**
-   1. Sonify data (*DEEP BACKLOG*)
-   2. Visualize the sonification (*DEEP BACKLOG*)
+   1. Define other key indicators from Moldovan sources. (*BACKLOG*)
+   2. Add plots on key indicators from Moldovan sources. (*BACKLOG*)
